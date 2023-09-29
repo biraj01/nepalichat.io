@@ -1,8 +1,8 @@
-# nepalichat.io
-NepaliChat.io
-Welcome to NepaliChat.io - the central hub for connecting Nepali hearts around the world.
+# [Nepali Chat](https://nepalichat.io)
+[Nepali Chat](https://nepalichat.io)
+Welcome to [Nepali Chat](https://nepalichat.io) - the central hub for connecting Nepali hearts around the world.
 
-About NepaliChat.io
+About [Nepali Chat](https://nepalichat.io)
 NepaliChat.io is an innovative online platform designed to foster connections, facilitate conversations, and celebrate the rich tapestry of Nepali culture. Our vision is to create a digital home for the global Nepali diaspora, where individuals from diverse backgrounds can connect, engage, and explore the beauty of Nepal, no matter where they are.
 
 Features
@@ -12,7 +12,7 @@ Global Nepali Community: Connect with Nepalese individuals from around the world
 Privacy and Security: Your privacy is our priority; robust security measures are in place to ensure a safe experience.
 Join NepaliChat.io
 
-To experience NepaliChat.io, visit our website at NepaliChat.io and sign up for a free account. Join our growing community, engage in meaningful conversations, and be a part of the global Nepali network.
+To experience NepaliChat.io, visit our website at [Nepali Chat](https://nepalichat.io) and sign up for a free account. Join our growing community, engage in meaningful conversations, and be a part of the global Nepali network.
 
 Contact Us
 Have questions, suggestions, or feedback? We'd love to hear from you! Please contact us at hello@nepalichat.io to connect with our support team.
